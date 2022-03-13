@@ -25,3 +25,7 @@ Sejam Bem-vindos!
   </div>
   
   ![Snake animation](https://github.com/PedroDev1571/PedroDev1571/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
+<p align="center"> Total de visitas des de 26/02/2022 </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDev1571/count.svg" /></p>
